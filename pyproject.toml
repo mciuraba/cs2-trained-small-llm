@@ -1,0 +1,13 @@
+[project]
+name = "cs2-chat-logs"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "awpy>=3.3.0",
+    "matplotlib>=3.11.2",
+    "pandas>=3.1.1",
+    "requests>=2.34.2",
+    "wordcloud>=1.9.6",
+]
