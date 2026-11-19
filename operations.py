@@ -4,7 +4,7 @@ from wordcloud import WordCloud
 import matplotlib.pyplot as plt
 
 
-words = analyze_words("messages.jsonl")
+words = analyze_words("data/processed/messages.jsonl")
 words_after = remove_stop_words_from_dict(words)
 
 print(type(words_after))

@@ -1,9 +1,9 @@
 import json
 from collections import defaultdict
 
-def make_jsonl_file_with_messages(raw_data_path: str, count = 0) -> str:
+def make_jsonl_from_raw(raw_data_path: str, count = 0) -> str:
     '''
-    Returns the jsonl path of the created file
+    Returns the jsonl path of the created file that is made from raw_data.json
     '''
     with open(raw_data_path, "r", encoding="utf-8") as file:
         data = json.load(file)
@@ -74,7 +74,5 @@ def remove_stop_words_from_dict(d) -> dict:
         d[word] = 0
 
     return d
-
-
 
 
