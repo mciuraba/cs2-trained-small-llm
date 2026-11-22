@@ -1,1206 +1,1206 @@
 {
-  "ok": true,
-  "matches": [
-    {
-      "shareCode": "CSGO-oWKdd-9u6yY-txd24-WD3Mf-xjTOG",
-      "map": null,
-      "playedAt": "2026-09-07T19:54:37.000Z",
-      "team": "T",
-      "ownScore": null,
-      "enemyScore": null,
-      "result": null,
-      "messages": [
+    "ok": true,
+    "matches": [
         {
-          "seq": 0,
-          "steamid64": "76561198279372764",
-          "name": "Kacper.",
-          "team": "T",
-          "round": 0,
-          "text": "again with ukrainians in team",
-          "isSubject": false
+            "shareCode": "CSGO-oWKdd-9u6yY-txd24-WD3Mf-xjTOG",
+            "map": null,
+            "playedAt": "2026-09-07T19:54:37.000Z",
+            "team": "T",
+            "ownScore": null,
+            "enemyScore": null,
+            "result": null,
+            "messages": [
+                {
+                    "seq": 0,
+                    "steamid64": "76561198279372764",
+                    "name": "Kacper.",
+                    "team": "T",
+                    "round": 0,
+                    "text": "again with ukrainians in team",
+                    "isSubject": false
+                },
+                {
+                    "seq": 1,
+                    "steamid64": "76561197987600075",
+                    "name": "Den7is",
+                    "team": "CT",
+                    "round": 5,
+                    "text": "haha",
+                    "isSubject": false
+                },
+                {
+                    "seq": 2,
+                    "steamid64": "76561198171178965",
+                    "name": "rap4",
+                    "team": "T",
+                    "round": 14,
+                    "text": "lol",
+                    "isSubject": true
+                },
+                {
+                    "seq": 3,
+                    "steamid64": "76561198302415213",
+                    "name": "ALEXXX",
+                    "team": "CT",
+                    "round": 14,
+                    "text": "YOU FUCKING BUSTARDS!",
+                    "isSubject": false
+                },
+                {
+                    "seq": 4,
+                    "steamid64": "76561198302415213",
+                    "name": "ALEXXX",
+                    "team": "CT",
+                    "round": 14,
+                    "text": "dont hit every shot threw smoke idiot than cheat clever",
+                    "isSubject": false
+                },
+                {
+                    "seq": 5,
+                    "steamid64": "76561197986599796",
+                    "name": "Denny",
+                    "team": "CT",
+                    "round": 16,
+                    "text": "nice cheat",
+                    "isSubject": false
+                },
+                {
+                    "seq": 6,
+                    "steamid64": "76561198102329094",
+                    "name": "Porsche Cayman 718 T owner",
+                    "team": "T",
+                    "round": 16,
+                    "text": "WHO",
+                    "isSubject": false
+                },
+                {
+                    "seq": 7,
+                    "steamid64": "76561199203987250",
+                    "name": "Neverlose",
+                    "team": "CT",
+                    "round": 16,
+                    "text": "me",
+                    "isSubject": false
+                },
+                {
+                    "seq": 8,
+                    "steamid64": "76561198279372764",
+                    "name": "Kacper.",
+                    "team": "T",
+                    "round": 16,
+                    "text": "jk",
+                    "isSubject": false
+                },
+                {
+                    "seq": 9,
+                    "steamid64": "76561198112564363",
+                    "name": "mokebe",
+                    "team": "T",
+                    "round": 21,
+                    "text": "gg",
+                    "isSubject": false
+                },
+                {
+                    "seq": 10,
+                    "steamid64": "76561198171178965",
+                    "name": "rap4",
+                    "team": "T",
+                    "round": 21,
+                    "text": "gg",
+                    "isSubject": true
+                },
+                {
+                    "seq": 11,
+                    "steamid64": "76561199127964976",
+                    "name": "scared?:)",
+                    "team": "T",
+                    "round": 21,
+                    "text": "GG",
+                    "isSubject": false
+                }
+            ]
         },
         {
-          "seq": 1,
-          "steamid64": "76561197987600075",
-          "name": "Den7is",
-          "team": "CT",
-          "round": 5,
-          "text": "haha",
-          "isSubject": false
+            "shareCode": "CSGO-MKR8i-vypLF-hN6kR-wUVKt-4rquL",
+            "map": null,
+            "playedAt": "2026-09-07T13:10:09.000Z",
+            "team": "CT",
+            "ownScore": null,
+            "enemyScore": null,
+            "result": null,
+            "messages": [
+                {
+                    "seq": 0,
+                    "steamid64": "76561198171178965",
+                    "name": "rap4",
+                    "team": "CT",
+                    "round": 9,
+                    "text": "xd",
+                    "isSubject": true
+                },
+                {
+                    "seq": 1,
+                    "steamid64": "76561198809829037",
+                    "name": "tionull",
+                    "team": "T",
+                    "round": 11,
+                    "text": "wp green",
+                    "isSubject": false
+                },
+                {
+                    "seq": 2,
+                    "steamid64": "76561198809829037",
+                    "name": "tionull",
+                    "team": "T",
+                    "round": 11,
+                    "text": "disconnected outside",
+                    "isSubject": false
+                },
+                {
+                    "seq": 3,
+                    "steamid64": "76561198809829037",
+                    "name": "tionull",
+                    "team": "T",
+                    "round": 11,
+                    "text": "garage",
+                    "isSubject": false
+                },
+                {
+                    "seq": 4,
+                    "steamid64": "76561198809829037",
+                    "name": "tionull",
+                    "team": "T",
+                    "round": 11,
+                    "text": "gg",
+                    "isSubject": false
+                },
+                {
+                    "seq": 5,
+                    "steamid64": "76561198304156072",
+                    "name": "Baker",
+                    "team": "T",
+                    "round": 11,
+                    "text": "GG",
+                    "isSubject": false
+                },
+                {
+                    "seq": 6,
+                    "steamid64": "76561199234631594",
+                    "name": "FIreTamaki67",
+                    "team": "T",
+                    "round": 11,
+                    "text": "gh",
+                    "isSubject": false
+                },
+                {
+                    "seq": 7,
+                    "steamid64": "76561198343701061",
+                    "name": "𝓼𝓟𝓮𝓽𝓻𝓲𝓽",
+                    "team": "T",
+                    "round": 11,
+                    "text": "GH",
+                    "isSubject": false
+                },
+                {
+                    "seq": 8,
+                    "steamid64": "76561199142777521",
+                    "name": "sammy.sebi",
+                    "team": "T",
+                    "round": 11,
+                    "text": "gh",
+                    "isSubject": false
+                },
+                {
+                    "seq": 9,
+                    "steamid64": "76561198809829037",
+                    "name": "tionull",
+                    "team": "T",
+                    "round": 11,
+                    "text": "I wont say gh cause we re up 8 rounds this is disgusting",
+                    "isSubject": false
+                },
+                {
+                    "seq": 10,
+                    "steamid64": "76561198343701061",
+                    "name": "𝓼𝓟𝓮𝓽𝓻𝓲𝓽",
+                    "team": "T",
+                    "round": 11,
+                    "text": "you are up???",
+                    "isSubject": false
+                },
+                {
+                    "seq": 11,
+                    "steamid64": "76561198809829037",
+                    "name": "tionull",
+                    "team": "T",
+                    "round": 12,
+                    "text": "you tryna pin me down?",
+                    "isSubject": false
+                },
+                {
+                    "seq": 12,
+                    "steamid64": "76561198343701061",
+                    "name": "𝓼𝓟𝓮𝓽𝓻𝓲𝓽",
+                    "team": "T",
+                    "round": 15,
+                    "text": "ggwp",
+                    "isSubject": false
+                },
+                {
+                    "seq": 13,
+                    "steamid64": "76561198809829037",
+                    "name": "tionull",
+                    "team": "T",
+                    "round": 15,
+                    "text": "gg",
+                    "isSubject": false
+                },
+                {
+                    "seq": 14,
+                    "steamid64": "76561198304156072",
+                    "name": "Baker",
+                    "team": "T",
+                    "round": 15,
+                    "text": "GG",
+                    "isSubject": false
+                },
+                {
+                    "seq": 15,
+                    "steamid64": "76561199142777521",
+                    "name": "sammy.sebi",
+                    "team": "T",
+                    "round": 15,
+                    "text": "gg",
+                    "isSubject": false
+                }
+            ]
         },
         {
-          "seq": 2,
-          "steamid64": "76561198171178965",
-          "name": "rap4",
-          "team": "T",
-          "round": 14,
-          "text": "lol",
-          "isSubject": true
+            "shareCode": "CSGO-ut8WZ-vjXXd-sYvuz-dZoOG-KxXHK",
+            "map": null,
+            "playedAt": "2026-09-07T12:13:06.000Z",
+            "team": "CT",
+            "ownScore": null,
+            "enemyScore": null,
+            "result": null,
+            "messages": [
+                {
+                    "seq": 0,
+                    "steamid64": "76561198128344883",
+                    "name": "Demi-baguette",
+                    "team": "T",
+                    "round": 0,
+                    "text": "glhf",
+                    "isSubject": false
+                },
+                {
+                    "seq": 1,
+                    "steamid64": "76561198283411763",
+                    "name": "KAKAWH!!!",
+                    "team": "CT",
+                    "round": 0,
+                    "text": "NICE",
+                    "isSubject": false
+                },
+                {
+                    "seq": 2,
+                    "steamid64": "76561198171178965",
+                    "name": "rap4",
+                    "team": "CT",
+                    "round": 0,
+                    "text": "how cringe that you play with cheater",
+                    "isSubject": true
+                },
+                {
+                    "seq": 3,
+                    "steamid64": "76561198212353419",
+                    "name": "CARTOF",
+                    "team": "CT",
+                    "round": 1,
+                    "text": "so will you be solid humans and kick or be dogs?",
+                    "isSubject": false
+                },
+                {
+                    "seq": 4,
+                    "steamid64": "76561198212353419",
+                    "name": "CARTOF",
+                    "team": "CT",
+                    "round": 1,
+                    "text": "i see",
+                    "isSubject": false
+                },
+                {
+                    "seq": 5,
+                    "steamid64": "76561198171178965",
+                    "name": "rap4",
+                    "team": "CT",
+                    "round": 1,
+                    "text": "cringe lmao",
+                    "isSubject": true
+                },
+                {
+                    "seq": 6,
+                    "steamid64": "76561198171178965",
+                    "name": "rap4",
+                    "team": "CT",
+                    "round": 1,
+                    "text": "imagine preming with cheaters",
+                    "isSubject": true
+                },
+                {
+                    "seq": 7,
+                    "steamid64": "76561199204135263",
+                    "name": "iLikka",
+                    "team": "T",
+                    "round": 1,
+                    "text": "yea",
+                    "isSubject": false
+                },
+                {
+                    "seq": 8,
+                    "steamid64": "76561198171178965",
+                    "name": "rap4",
+                    "team": "CT",
+                    "round": 1,
+                    "text": "for imaginary elo points",
+                    "isSubject": true
+                },
+                {
+                    "seq": 9,
+                    "steamid64": "76561198128344883",
+                    "name": "Demi-baguette",
+                    "team": "T",
+                    "round": 1,
+                    "text": "i try to kick",
+                    "isSubject": false
+                },
+                {
+                    "seq": 10,
+                    "steamid64": "76561198128344883",
+                    "name": "Demi-baguette",
+                    "team": "T",
+                    "round": 1,
+                    "text": "i go afk",
+                    "isSubject": false
+                },
+                {
+                    "seq": 11,
+                    "steamid64": "76561198128344883",
+                    "name": "Demi-baguette",
+                    "team": "T",
+                    "round": 1,
+                    "text": "gg",
+                    "isSubject": false
+                },
+                {
+                    "seq": 12,
+                    "steamid64": "76561198171178965",
+                    "name": "rap4",
+                    "team": "CT",
+                    "round": 2,
+                    "text": "where cheater",
+                    "isSubject": true
+                },
+                {
+                    "seq": 13,
+                    "steamid64": "76561198128344883",
+                    "name": "Demi-baguette",
+                    "team": "T",
+                    "round": 2,
+                    "text": "ct",
+                    "isSubject": false
+                },
+                {
+                    "seq": 14,
+                    "steamid64": "76561198128344883",
+                    "name": "Demi-baguette",
+                    "team": "T",
+                    "round": 2,
+                    "text": "a",
+                    "isSubject": false
+                },
+                {
+                    "seq": 15,
+                    "steamid64": "76561198128344883",
+                    "name": "Demi-baguette",
+                    "team": "T",
+                    "round": 2,
+                    "text": "car",
+                    "isSubject": false
+                },
+                {
+                    "seq": 16,
+                    "steamid64": "76561198128344883",
+                    "name": "Demi-baguette",
+                    "team": "T",
+                    "round": 2,
+                    "text": "a",
+                    "isSubject": false
+                },
+                {
+                    "seq": 17,
+                    "steamid64": "76561198171178965",
+                    "name": "rap4",
+                    "team": "CT",
+                    "round": 2,
+                    "text": "how pathetic do ytou have to be ?",
+                    "isSubject": true
+                },
+                {
+                    "seq": 18,
+                    "steamid64": "76561198171178965",
+                    "name": "rap4",
+                    "team": "CT",
+                    "round": 2,
+                    "text": "I just hope that something bad happens to you",
+                    "isSubject": true
+                },
+                {
+                    "seq": 19,
+                    "steamid64": "76561198128344883",
+                    "name": "Demi-baguette",
+                    "team": "T",
+                    "round": 4,
+                    "text": "b and mid",
+                    "isSubject": false
+                },
+                {
+                    "seq": 20,
+                    "steamid64": "76561198128344883",
+                    "name": "Demi-baguette",
+                    "team": "T",
+                    "round": 4,
+                    "text": "heaven",
+                    "isSubject": false
+                },
+                {
+                    "seq": 21,
+                    "steamid64": "76561198808398995",
+                    "name": "xQc from Temu",
+                    "team": null,
+                    "round": 4,
+                    "text": "w commend to whoever did it",
+                    "isSubject": false
+                },
+                {
+                    "seq": 22,
+                    "steamid64": "76561199755412119",
+                    "name": "76561199755412119",
+                    "team": "T",
+                    "round": 4,
+                    "text": "nt",
+                    "isSubject": false
+                },
+                {
+                    "seq": 23,
+                    "steamid64": "76561198171178965",
+                    "name": "rap4",
+                    "team": "CT",
+                    "round": 4,
+                    "text": "sad russian life",
+                    "isSubject": true
+                },
+                {
+                    "seq": 24,
+                    "steamid64": "76561199755412119",
+                    "name": "76561199755412119",
+                    "team": "T",
+                    "round": 4,
+                    "text": "1 5 on purple ranks",
+                    "isSubject": false
+                },
+                {
+                    "seq": 25,
+                    "steamid64": "76561199755412119",
+                    "name": "76561199755412119",
+                    "team": "T",
+                    "round": 4,
+                    "text": "lmao",
+                    "isSubject": false
+                },
+                {
+                    "seq": 26,
+                    "steamid64": "76561198283411763",
+                    "name": "KAKAWH!!!",
+                    "team": "CT",
+                    "round": 4,
+                    "text": "typical nigger behaviour",
+                    "isSubject": false
+                },
+                {
+                    "seq": 27,
+                    "steamid64": "76561198283411763",
+                    "name": "KAKAWH!!!",
+                    "team": "CT",
+                    "round": 4,
+                    "text": "typical nigger behaviour",
+                    "isSubject": false
+                },
+                {
+                    "seq": 28,
+                    "steamid64": "76561198283411763",
+                    "name": "KAKAWH!!!",
+                    "team": "CT",
+                    "round": 4,
+                    "text": "typical nigger behaviour",
+                    "isSubject": false
+                },
+                {
+                    "seq": 29,
+                    "steamid64": "76561198283411763",
+                    "name": "KAKAWH!!!",
+                    "team": "CT",
+                    "round": 4,
+                    "text": "typical nigger behaviour",
+                    "isSubject": false
+                },
+                {
+                    "seq": 30,
+                    "steamid64": "76561198283411763",
+                    "name": "KAKAWH!!!",
+                    "team": "CT",
+                    "round": 4,
+                    "text": "typical nigger behaviour",
+                    "isSubject": false
+                },
+                {
+                    "seq": 31,
+                    "steamid64": "76561198283411763",
+                    "name": "KAKAWH!!!",
+                    "team": "CT",
+                    "round": 4,
+                    "text": "typical nigger behaviour",
+                    "isSubject": false
+                },
+                {
+                    "seq": 32,
+                    "steamid64": "76561198171178965",
+                    "name": "rap4",
+                    "team": "CT",
+                    "round": 5,
+                    "text": "lmao do ytou really try to write when you cheat?",
+                    "isSubject": true
+                },
+                {
+                    "seq": 33,
+                    "steamid64": "76561198171178965",
+                    "name": "rap4",
+                    "team": "CT",
+                    "round": 5,
+                    "text": "get a grip",
+                    "isSubject": true
+                },
+                {
+                    "seq": 34,
+                    "steamid64": "76561198128344883",
+                    "name": "Demi-baguette",
+                    "team": "T",
+                    "round": 5,
+                    "text": "go fast finish please",
+                    "isSubject": false
+                },
+                {
+                    "seq": 35,
+                    "steamid64": "76561198171178965",
+                    "name": "rap4",
+                    "team": "CT",
+                    "round": 5,
+                    "text": "XD",
+                    "isSubject": true
+                },
+                {
+                    "seq": 36,
+                    "steamid64": "76561198808398995",
+                    "name": "xQc from Temu",
+                    "team": null,
+                    "round": 5,
+                    "text": "xddd",
+                    "isSubject": false
+                },
+                {
+                    "seq": 37,
+                    "steamid64": "76561198171178965",
+                    "name": "rap4",
+                    "team": "CT",
+                    "round": 5,
+                    "text": "jobless no future behaviour",
+                    "isSubject": true
+                },
+                {
+                    "seq": 38,
+                    "steamid64": "76561199540233159",
+                    "name": "Erzhan",
+                    "team": "T",
+                    "round": 5,
+                    "text": "+",
+                    "isSubject": false
+                },
+                {
+                    "seq": 39,
+                    "steamid64": "76561198171178965",
+                    "name": "rap4",
+                    "team": "CT",
+                    "round": 5,
+                    "text": "but cheating in cs",
+                    "isSubject": true
+                },
+                {
+                    "seq": 40,
+                    "steamid64": "76561198171178965",
+                    "name": "rap4",
+                    "team": "CT",
+                    "round": 6,
+                    "text": "get cancer blue",
+                    "isSubject": true
+                },
+                {
+                    "seq": 41,
+                    "steamid64": "76561198808398995",
+                    "name": "xQc from Temu",
+                    "team": null,
+                    "round": 6,
+                    "text": "deadass fr",
+                    "isSubject": false
+                },
+                {
+                    "seq": 42,
+                    "steamid64": "76561198171178965",
+                    "name": "rap4",
+                    "team": "CT",
+                    "round": 6,
+                    "text": "no girl that will ever love you",
+                    "isSubject": true
+                },
+                {
+                    "seq": 43,
+                    "steamid64": "76561199755412119",
+                    "name": "76561199755412119",
+                    "team": "T",
+                    "round": 6,
+                    "text": "1 done",
+                    "isSubject": false
+                },
+                {
+                    "seq": 44,
+                    "steamid64": "76561198171178965",
+                    "name": "rap4",
+                    "team": "CT",
+                    "round": 6,
+                    "text": "hope your brain gets done with oxygen and you become a vegetable",
+                    "isSubject": true
+                },
+                {
+                    "seq": 45,
+                    "steamid64": "76561198171178965",
+                    "name": "rap4",
+                    "team": "CT",
+                    "round": 7,
+                    "text": "which wouldnt bve that different from now tbh",
+                    "isSubject": true
+                },
+                {
+                    "seq": 46,
+                    "steamid64": "76561198171178965",
+                    "name": "rap4",
+                    "team": "CT",
+                    "round": 7,
+                    "text": "you probably need to translate that you moronish uneducated fuck",
+                    "isSubject": true
+                },
+                {
+                    "seq": 47,
+                    "steamid64": "76561198171178965",
+                    "name": "rap4",
+                    "team": "CT",
+                    "round": 7,
+                    "text": "ayyyyy",
+                    "isSubject": true
+                },
+                {
+                    "seq": 48,
+                    "steamid64": "76561198212353419",
+                    "name": "CARTOF",
+                    "team": "CT",
+                    "round": 7,
+                    "text": "mcdonalds not hiring?",
+                    "isSubject": false
+                },
+                {
+                    "seq": 49,
+                    "steamid64": "76561198171178965",
+                    "name": "rap4",
+                    "team": "CT",
+                    "round": 7,
+                    "text": "just better",
+                    "isSubject": true
+                },
+                {
+                    "seq": 50,
+                    "steamid64": "76561198283411763",
+                    "name": "KAKAWH!!!",
+                    "team": "CT",
+                    "round": 7,
+                    "text": "i will find ur address and gonna visit ur little sister at 3am, i will sneak into her bed and brutally hug her",
+                    "isSubject": false
+                },
+                {
+                    "seq": 51,
+                    "steamid64": "76561198171178965",
+                    "name": "rap4",
+                    "team": "CT",
+                    "round": 8,
+                    "text": "100% russian and should go to war",
+                    "isSubject": true
+                },
+                {
+                    "seq": 52,
+                    "steamid64": "76561198171178965",
+                    "name": "rap4",
+                    "team": "CT",
+                    "round": 8,
+                    "text": "who is he prem with this fuck",
+                    "isSubject": true
+                },
+                {
+                    "seq": 53,
+                    "steamid64": "76561198212353419",
+                    "name": "CARTOF",
+                    "team": "CT",
+                    "round": 9,
+                    "text": "Erzhan you paying for boost?",
+                    "isSubject": false
+                },
+                {
+                    "seq": 54,
+                    "steamid64": "76561198283411763",
+                    "name": "KAKAWH!!!",
+                    "team": "CT",
+                    "round": 10,
+                    "text": "hey blue",
+                    "isSubject": false
+                },
+                {
+                    "seq": 55,
+                    "steamid64": "76561198171178965",
+                    "name": "rap4",
+                    "team": "CT",
+                    "round": 10,
+                    "text": "top 3 russian cunts",
+                    "isSubject": true
+                },
+                {
+                    "seq": 56,
+                    "steamid64": "76561198283411763",
+                    "name": "KAKAWH!!!",
+                    "team": "CT",
+                    "round": 10,
+                    "text": "what gaming chair are u using?",
+                    "isSubject": false
+                },
+                {
+                    "seq": 57,
+                    "steamid64": "76561198171178965",
+                    "name": "rap4",
+                    "team": "CT",
+                    "round": 10,
+                    "text": "this guy with his 400kg ass takes all 3 spots",
+                    "isSubject": true
+                },
+                {
+                    "seq": 58,
+                    "steamid64": "76561198171178965",
+                    "name": "rap4",
+                    "team": "CT",
+                    "round": 10,
+                    "text": "0 bench ability",
+                    "isSubject": true
+                },
+                {
+                    "seq": 59,
+                    "steamid64": "76561198212353419",
+                    "name": "CARTOF",
+                    "team": "CT",
+                    "round": 10,
+                    "text": "ERZHAN ANSWER!!! how much are you paying",
+                    "isSubject": false
+                },
+                {
+                    "seq": 60,
+                    "steamid64": "76561198171178965",
+                    "name": "rap4",
+                    "team": "CT",
+                    "round": 11,
+                    "text": "IF YOU PAY FOR THIS XDDDDDDDDDDDDDD",
+                    "isSubject": true
+                },
+                {
+                    "seq": 61,
+                    "steamid64": "76561198171178965",
+                    "name": "rap4",
+                    "team": "CT",
+                    "round": 11,
+                    "text": "you must be the biggest retard on the planet",
+                    "isSubject": true
+                },
+                {
+                    "seq": 62,
+                    "steamid64": "76561198171178965",
+                    "name": "rap4",
+                    "team": "CT",
+                    "round": 11,
+                    "text": "truly",
+                    "isSubject": true
+                },
+                {
+                    "seq": 63,
+                    "steamid64": "76561198171178965",
+                    "name": "rap4",
+                    "team": "CT",
+                    "round": 11,
+                    "text": "and shouild be euthanised",
+                    "isSubject": true
+                },
+                {
+                    "seq": 64,
+                    "steamid64": "76561198171178965",
+                    "name": "rap4",
+                    "team": "CT",
+                    "round": 11,
+                    "text": "iLikka too btw",
+                    "isSubject": true
+                },
+                {
+                    "seq": 65,
+                    "steamid64": "76561198212353419",
+                    "name": "CARTOF",
+                    "team": "CT",
+                    "round": 11,
+                    "text": "erzhan how many rubels?",
+                    "isSubject": false
+                },
+                {
+                    "seq": 66,
+                    "steamid64": "76561198171178965",
+                    "name": "rap4",
+                    "team": "CT",
+                    "round": 11,
+                    "text": "how many potatos",
+                    "isSubject": true
+                },
+                {
+                    "seq": 67,
+                    "steamid64": "76561198171178965",
+                    "name": "rap4",
+                    "team": "CT",
+                    "round": 11,
+                    "text": "potatoes",
+                    "isSubject": true
+                },
+                {
+                    "seq": 68,
+                    "steamid64": "76561198171178965",
+                    "name": "rap4",
+                    "team": "CT",
+                    "round": 11,
+                    "text": ":PPP",
+                    "isSubject": true
+                },
+                {
+                    "seq": 69,
+                    "steamid64": "76561198171178965",
+                    "name": "rap4",
+                    "team": "CT",
+                    "round": 11,
+                    "text": "he prob plays on thinkpad",
+                    "isSubject": true
+                },
+                {
+                    "seq": 70,
+                    "steamid64": "76561198171178965",
+                    "name": "rap4",
+                    "team": "CT",
+                    "round": 11,
+                    "text": "sad ass russian life",
+                    "isSubject": true
+                },
+                {
+                    "seq": 71,
+                    "steamid64": "76561198212353419",
+                    "name": "CARTOF",
+                    "team": "CT",
+                    "round": 11,
+                    "text": "ey sad boy",
+                    "isSubject": false
+                },
+                {
+                    "seq": 72,
+                    "steamid64": "76561198171178965",
+                    "name": "rap4",
+                    "team": "CT",
+                    "round": 11,
+                    "text": "they should just get him and take hims traight to the front",
+                    "isSubject": true
+                },
+                {
+                    "seq": 73,
+                    "steamid64": "76561198171178965",
+                    "name": "rap4",
+                    "team": "CT",
+                    "round": 11,
+                    "text": "ayyy",
+                    "isSubject": true
+                },
+                {
+                    "seq": 74,
+                    "steamid64": "76561198125454340",
+                    "name": "MindHigh",
+                    "team": "CT",
+                    "round": 11,
+                    "text": "ах вы уебки ещё и русские",
+                    "isSubject": false
+                },
+                {
+                    "seq": 75,
+                    "steamid64": "76561198125454340",
+                    "name": "MindHigh",
+                    "team": "CT",
+                    "round": 11,
+                    "text": "в школу пиздуйте",
+                    "isSubject": false
+                },
+                {
+                    "seq": 76,
+                    "steamid64": "76561198171178965",
+                    "name": "rap4",
+                    "team": "CT",
+                    "round": 11,
+                    "text": "i dont speak terrorist sorry",
+                    "isSubject": true
+                },
+                {
+                    "seq": 77,
+                    "steamid64": "76561198171178965",
+                    "name": "rap4",
+                    "team": "CT",
+                    "round": 12,
+                    "text": "you know only 1 language probably",
+                    "isSubject": true
+                },
+                {
+                    "seq": 78,
+                    "steamid64": "76561198212353419",
+                    "name": "CARTOF",
+                    "team": "CT",
+                    "round": 12,
+                    "text": "mom credit card?",
+                    "isSubject": false
+                },
+                {
+                    "seq": 79,
+                    "steamid64": "76561198128344883",
+                    "name": "Demi-baguette",
+                    "team": "T",
+                    "round": 12,
+                    "text": "b",
+                    "isSubject": false
+                },
+                {
+                    "seq": 80,
+                    "steamid64": "76561199204135263",
+                    "name": "iLikka",
+                    "team": "T",
+                    "round": 12,
+                    "text": "all repport blue",
+                    "isSubject": false
+                },
+                {
+                    "seq": 81,
+                    "steamid64": "76561198212353419",
+                    "name": "CARTOF",
+                    "team": "CT",
+                    "round": 12,
+                    "text": "ruski dibil??",
+                    "isSubject": false
+                },
+                {
+                    "seq": 82,
+                    "steamid64": "76561199755412119",
+                    "name": "76561199755412119",
+                    "team": "T",
+                    "round": 12,
+                    "text": "REPORT ME",
+                    "isSubject": false
+                },
+                {
+                    "seq": 83,
+                    "steamid64": "76561198171178965",
+                    "name": "rap4",
+                    "team": "CT",
+                    "round": 12,
+                    "text": "why do you even play the game",
+                    "isSubject": true
+                },
+                {
+                    "seq": 84,
+                    "steamid64": "76561198171178965",
+                    "name": "rap4",
+                    "team": "CT",
+                    "round": 13,
+                    "text": "crazy how you play with cheater blue and orange",
+                    "isSubject": true
+                },
+                {
+                    "seq": 85,
+                    "steamid64": "76561198212353419",
+                    "name": "CARTOF",
+                    "team": "CT",
+                    "round": 13,
+                    "text": "saf",
+                    "isSubject": false
+                }
+            ]
         },
         {
-          "seq": 3,
-          "steamid64": "76561198302415213",
-          "name": "ALEXXX",
-          "team": "CT",
-          "round": 14,
-          "text": "YOU FUCKING BUSTARDS!",
-          "isSubject": false
+            "shareCode": "CSGO-o4hcb-6Syuu-5eGKr-t4h7w-kfFnK",
+            "map": null,
+            "playedAt": "2026-09-07T11:31:01.000Z",
+            "team": "T",
+            "ownScore": null,
+            "enemyScore": null,
+            "result": null,
+            "messages": [
+                {
+                    "seq": 0,
+                    "steamid64": "76561198171178965",
+                    "name": "rap4",
+                    "team": "T",
+                    "round": 2,
+                    "text": "LOL",
+                    "isSubject": true
+                },
+                {
+                    "seq": 1,
+                    "steamid64": "76561198171178965",
+                    "name": "rap4",
+                    "team": "T",
+                    "round": 2,
+                    "text": "♿",
+                    "isSubject": true
+                },
+                {
+                    "seq": 2,
+                    "steamid64": "76561198283411763",
+                    "name": "KAKAWH!!!",
+                    "team": "T",
+                    "round": 6,
+                    "text": "XDDDDDDDDDD",
+                    "isSubject": false
+                },
+                {
+                    "seq": 3,
+                    "steamid64": "76561198171178965",
+                    "name": "rap4",
+                    "team": "T",
+                    "round": 10,
+                    "text": "how lmao",
+                    "isSubject": true
+                },
+                {
+                    "seq": 4,
+                    "steamid64": "76561199243469539",
+                    "name": "AutisteA",
+                    "team": "T",
+                    "round": 21,
+                    "text": "gg",
+                    "isSubject": false
+                }
+            ]
         },
         {
-          "seq": 4,
-          "steamid64": "76561198302415213",
-          "name": "ALEXXX",
-          "team": "CT",
-          "round": 14,
-          "text": "dont hit every shot threw smoke idiot than cheat clever",
-          "isSubject": false
-        },
-        {
-          "seq": 5,
-          "steamid64": "76561197986599796",
-          "name": "Denny",
-          "team": "CT",
-          "round": 16,
-          "text": "nice cheat",
-          "isSubject": false
-        },
-        {
-          "seq": 6,
-          "steamid64": "76561198102329094",
-          "name": "Porsche Cayman 718 T owner",
-          "team": "T",
-          "round": 16,
-          "text": "WHO",
-          "isSubject": false
-        },
-        {
-          "seq": 7,
-          "steamid64": "76561199203987250",
-          "name": "Neverlose",
-          "team": "CT",
-          "round": 16,
-          "text": "me",
-          "isSubject": false
-        },
-        {
-          "seq": 8,
-          "steamid64": "76561198279372764",
-          "name": "Kacper.",
-          "team": "T",
-          "round": 16,
-          "text": "jk",
-          "isSubject": false
-        },
-        {
-          "seq": 9,
-          "steamid64": "76561198112564363",
-          "name": "mokebe",
-          "team": "T",
-          "round": 21,
-          "text": "gg",
-          "isSubject": false
-        },
-        {
-          "seq": 10,
-          "steamid64": "76561198171178965",
-          "name": "rap4",
-          "team": "T",
-          "round": 21,
-          "text": "gg",
-          "isSubject": true
-        },
-        {
-          "seq": 11,
-          "steamid64": "76561199127964976",
-          "name": "scared?:)",
-          "team": "T",
-          "round": 21,
-          "text": "GG",
-          "isSubject": false
+            "shareCode": "CSGO-tib24-Z4YOH-NxiAG-9kZPM-CnF8D",
+            "map": "de_mirage",
+            "playedAt": "2026-09-06T21:36:12.000Z",
+            "team": "T",
+            "ownScore": 16,
+            "enemyScore": 12,
+            "result": "win",
+            "messages": [
+                {
+                    "seq": 0,
+                    "steamid64": "76561199110149653",
+                    "name": "Czarny77_",
+                    "team": "CT",
+                    "round": 0,
+                    "text": "get leetify",
+                    "isSubject": false
+                },
+                {
+                    "seq": 1,
+                    "steamid64": "76561198171178965",
+                    "name": "rap4",
+                    "team": "T",
+                    "round": 26,
+                    "text": "gh",
+                    "isSubject": true
+                },
+                {
+                    "seq": 2,
+                    "steamid64": "76561199110149653",
+                    "name": "Czarny77_",
+                    "team": "CT",
+                    "round": 27,
+                    "text": "gg so ez",
+                    "isSubject": false
+                },
+                {
+                    "seq": 3,
+                    "steamid64": "76561198171178965",
+                    "name": "rap4",
+                    "team": "T",
+                    "round": 27,
+                    "text": "gg",
+                    "isSubject": true
+                },
+                {
+                    "seq": 4,
+                    "steamid64": "76561197995362723",
+                    "name": "iBol1ty",
+                    "team": "T",
+                    "round": 27,
+                    "text": "gg",
+                    "isSubject": false
+                },
+                {
+                    "seq": 5,
+                    "steamid64": "76561199110149653",
+                    "name": "Czarny77_",
+                    "team": "CT",
+                    "round": 27,
+                    "text": "bicthjes",
+                    "isSubject": false
+                },
+                {
+                    "seq": 6,
+                    "steamid64": "76561198171178965",
+                    "name": "rap4",
+                    "team": "T",
+                    "round": 27,
+                    "text": "essa czarny",
+                    "isSubject": true
+                },
+                {
+                    "seq": 7,
+                    "steamid64": "76561198171178965",
+                    "name": "rap4",
+                    "team": "T",
+                    "round": 27,
+                    "text": "l2p wariacie",
+                    "isSubject": true
+                }
+            ]
         }
-      ]
-    },
-    {
-      "shareCode": "CSGO-MKR8i-vypLF-hN6kR-wUVKt-4rquL",
-      "map": null,
-      "playedAt": "2026-09-07T13:10:09.000Z",
-      "team": "CT",
-      "ownScore": null,
-      "enemyScore": null,
-      "result": null,
-      "messages": [
-        {
-          "seq": 0,
-          "steamid64": "76561198171178965",
-          "name": "rap4",
-          "team": "CT",
-          "round": 9,
-          "text": "xd",
-          "isSubject": true
-        },
-        {
-          "seq": 1,
-          "steamid64": "76561198809829037",
-          "name": "tionull",
-          "team": "T",
-          "round": 11,
-          "text": "wp green",
-          "isSubject": false
-        },
-        {
-          "seq": 2,
-          "steamid64": "76561198809829037",
-          "name": "tionull",
-          "team": "T",
-          "round": 11,
-          "text": "disconnected outside",
-          "isSubject": false
-        },
-        {
-          "seq": 3,
-          "steamid64": "76561198809829037",
-          "name": "tionull",
-          "team": "T",
-          "round": 11,
-          "text": "garage",
-          "isSubject": false
-        },
-        {
-          "seq": 4,
-          "steamid64": "76561198809829037",
-          "name": "tionull",
-          "team": "T",
-          "round": 11,
-          "text": "gg",
-          "isSubject": false
-        },
-        {
-          "seq": 5,
-          "steamid64": "76561198304156072",
-          "name": "Baker",
-          "team": "T",
-          "round": 11,
-          "text": "GG",
-          "isSubject": false
-        },
-        {
-          "seq": 6,
-          "steamid64": "76561199234631594",
-          "name": "FIreTamaki67",
-          "team": "T",
-          "round": 11,
-          "text": "gh",
-          "isSubject": false
-        },
-        {
-          "seq": 7,
-          "steamid64": "76561198343701061",
-          "name": "𝓼𝓟𝓮𝓽𝓻𝓲𝓽",
-          "team": "T",
-          "round": 11,
-          "text": "GH",
-          "isSubject": false
-        },
-        {
-          "seq": 8,
-          "steamid64": "76561199142777521",
-          "name": "sammy.sebi",
-          "team": "T",
-          "round": 11,
-          "text": "gh",
-          "isSubject": false
-        },
-        {
-          "seq": 9,
-          "steamid64": "76561198809829037",
-          "name": "tionull",
-          "team": "T",
-          "round": 11,
-          "text": "I wont say gh cause we re up 8 rounds this is disgusting",
-          "isSubject": false
-        },
-        {
-          "seq": 10,
-          "steamid64": "76561198343701061",
-          "name": "𝓼𝓟𝓮𝓽𝓻𝓲𝓽",
-          "team": "T",
-          "round": 11,
-          "text": "you are up???",
-          "isSubject": false
-        },
-        {
-          "seq": 11,
-          "steamid64": "76561198809829037",
-          "name": "tionull",
-          "team": "T",
-          "round": 12,
-          "text": "you tryna pin me down?",
-          "isSubject": false
-        },
-        {
-          "seq": 12,
-          "steamid64": "76561198343701061",
-          "name": "𝓼𝓟𝓮𝓽𝓻𝓲𝓽",
-          "team": "T",
-          "round": 15,
-          "text": "ggwp",
-          "isSubject": false
-        },
-        {
-          "seq": 13,
-          "steamid64": "76561198809829037",
-          "name": "tionull",
-          "team": "T",
-          "round": 15,
-          "text": "gg",
-          "isSubject": false
-        },
-        {
-          "seq": 14,
-          "steamid64": "76561198304156072",
-          "name": "Baker",
-          "team": "T",
-          "round": 15,
-          "text": "GG",
-          "isSubject": false
-        },
-        {
-          "seq": 15,
-          "steamid64": "76561199142777521",
-          "name": "sammy.sebi",
-          "team": "T",
-          "round": 15,
-          "text": "gg",
-          "isSubject": false
-        }
-      ]
-    },
-    {
-      "shareCode": "CSGO-ut8WZ-vjXXd-sYvuz-dZoOG-KxXHK",
-      "map": null,
-      "playedAt": "2026-09-07T12:13:06.000Z",
-      "team": "CT",
-      "ownScore": null,
-      "enemyScore": null,
-      "result": null,
-      "messages": [
-        {
-          "seq": 0,
-          "steamid64": "76561198128344883",
-          "name": "Demi-baguette",
-          "team": "T",
-          "round": 0,
-          "text": "glhf",
-          "isSubject": false
-        },
-        {
-          "seq": 1,
-          "steamid64": "76561198283411763",
-          "name": "KAKAWH!!!",
-          "team": "CT",
-          "round": 0,
-          "text": "NICE",
-          "isSubject": false
-        },
-        {
-          "seq": 2,
-          "steamid64": "76561198171178965",
-          "name": "rap4",
-          "team": "CT",
-          "round": 0,
-          "text": "how cringe that you play with cheater",
-          "isSubject": true
-        },
-        {
-          "seq": 3,
-          "steamid64": "76561198212353419",
-          "name": "CARTOF",
-          "team": "CT",
-          "round": 1,
-          "text": "so will you be solid humans and kick or be dogs?",
-          "isSubject": false
-        },
-        {
-          "seq": 4,
-          "steamid64": "76561198212353419",
-          "name": "CARTOF",
-          "team": "CT",
-          "round": 1,
-          "text": "i see",
-          "isSubject": false
-        },
-        {
-          "seq": 5,
-          "steamid64": "76561198171178965",
-          "name": "rap4",
-          "team": "CT",
-          "round": 1,
-          "text": "cringe lmao",
-          "isSubject": true
-        },
-        {
-          "seq": 6,
-          "steamid64": "76561198171178965",
-          "name": "rap4",
-          "team": "CT",
-          "round": 1,
-          "text": "imagine preming with cheaters",
-          "isSubject": true
-        },
-        {
-          "seq": 7,
-          "steamid64": "76561199204135263",
-          "name": "iLikka",
-          "team": "T",
-          "round": 1,
-          "text": "yea",
-          "isSubject": false
-        },
-        {
-          "seq": 8,
-          "steamid64": "76561198171178965",
-          "name": "rap4",
-          "team": "CT",
-          "round": 1,
-          "text": "for imaginary elo points",
-          "isSubject": true
-        },
-        {
-          "seq": 9,
-          "steamid64": "76561198128344883",
-          "name": "Demi-baguette",
-          "team": "T",
-          "round": 1,
-          "text": "i try to kick",
-          "isSubject": false
-        },
-        {
-          "seq": 10,
-          "steamid64": "76561198128344883",
-          "name": "Demi-baguette",
-          "team": "T",
-          "round": 1,
-          "text": "i go afk",
-          "isSubject": false
-        },
-        {
-          "seq": 11,
-          "steamid64": "76561198128344883",
-          "name": "Demi-baguette",
-          "team": "T",
-          "round": 1,
-          "text": "gg",
-          "isSubject": false
-        },
-        {
-          "seq": 12,
-          "steamid64": "76561198171178965",
-          "name": "rap4",
-          "team": "CT",
-          "round": 2,
-          "text": "where cheater",
-          "isSubject": true
-        },
-        {
-          "seq": 13,
-          "steamid64": "76561198128344883",
-          "name": "Demi-baguette",
-          "team": "T",
-          "round": 2,
-          "text": "ct",
-          "isSubject": false
-        },
-        {
-          "seq": 14,
-          "steamid64": "76561198128344883",
-          "name": "Demi-baguette",
-          "team": "T",
-          "round": 2,
-          "text": "a",
-          "isSubject": false
-        },
-        {
-          "seq": 15,
-          "steamid64": "76561198128344883",
-          "name": "Demi-baguette",
-          "team": "T",
-          "round": 2,
-          "text": "car",
-          "isSubject": false
-        },
-        {
-          "seq": 16,
-          "steamid64": "76561198128344883",
-          "name": "Demi-baguette",
-          "team": "T",
-          "round": 2,
-          "text": "a",
-          "isSubject": false
-        },
-        {
-          "seq": 17,
-          "steamid64": "76561198171178965",
-          "name": "rap4",
-          "team": "CT",
-          "round": 2,
-          "text": "how pathetic do ytou have to be ?",
-          "isSubject": true
-        },
-        {
-          "seq": 18,
-          "steamid64": "76561198171178965",
-          "name": "rap4",
-          "team": "CT",
-          "round": 2,
-          "text": "I just hope that something bad happens to you",
-          "isSubject": true
-        },
-        {
-          "seq": 19,
-          "steamid64": "76561198128344883",
-          "name": "Demi-baguette",
-          "team": "T",
-          "round": 4,
-          "text": "b and mid",
-          "isSubject": false
-        },
-        {
-          "seq": 20,
-          "steamid64": "76561198128344883",
-          "name": "Demi-baguette",
-          "team": "T",
-          "round": 4,
-          "text": "heaven",
-          "isSubject": false
-        },
-        {
-          "seq": 21,
-          "steamid64": "76561198808398995",
-          "name": "xQc from Temu",
-          "team": null,
-          "round": 4,
-          "text": "w commend to whoever did it",
-          "isSubject": false
-        },
-        {
-          "seq": 22,
-          "steamid64": "76561199755412119",
-          "name": "76561199755412119",
-          "team": "T",
-          "round": 4,
-          "text": "nt",
-          "isSubject": false
-        },
-        {
-          "seq": 23,
-          "steamid64": "76561198171178965",
-          "name": "rap4",
-          "team": "CT",
-          "round": 4,
-          "text": "sad russian life",
-          "isSubject": true
-        },
-        {
-          "seq": 24,
-          "steamid64": "76561199755412119",
-          "name": "76561199755412119",
-          "team": "T",
-          "round": 4,
-          "text": "1 5 on purple ranks",
-          "isSubject": false
-        },
-        {
-          "seq": 25,
-          "steamid64": "76561199755412119",
-          "name": "76561199755412119",
-          "team": "T",
-          "round": 4,
-          "text": "lmao",
-          "isSubject": false
-        },
-        {
-          "seq": 26,
-          "steamid64": "76561198283411763",
-          "name": "KAKAWH!!!",
-          "team": "CT",
-          "round": 4,
-          "text": "typical nigger behaviour",
-          "isSubject": false
-        },
-        {
-          "seq": 27,
-          "steamid64": "76561198283411763",
-          "name": "KAKAWH!!!",
-          "team": "CT",
-          "round": 4,
-          "text": "typical nigger behaviour",
-          "isSubject": false
-        },
-        {
-          "seq": 28,
-          "steamid64": "76561198283411763",
-          "name": "KAKAWH!!!",
-          "team": "CT",
-          "round": 4,
-          "text": "typical nigger behaviour",
-          "isSubject": false
-        },
-        {
-          "seq": 29,
-          "steamid64": "76561198283411763",
-          "name": "KAKAWH!!!",
-          "team": "CT",
-          "round": 4,
-          "text": "typical nigger behaviour",
-          "isSubject": false
-        },
-        {
-          "seq": 30,
-          "steamid64": "76561198283411763",
-          "name": "KAKAWH!!!",
-          "team": "CT",
-          "round": 4,
-          "text": "typical nigger behaviour",
-          "isSubject": false
-        },
-        {
-          "seq": 31,
-          "steamid64": "76561198283411763",
-          "name": "KAKAWH!!!",
-          "team": "CT",
-          "round": 4,
-          "text": "typical nigger behaviour",
-          "isSubject": false
-        },
-        {
-          "seq": 32,
-          "steamid64": "76561198171178965",
-          "name": "rap4",
-          "team": "CT",
-          "round": 5,
-          "text": "lmao do ytou really try to write when you cheat?",
-          "isSubject": true
-        },
-        {
-          "seq": 33,
-          "steamid64": "76561198171178965",
-          "name": "rap4",
-          "team": "CT",
-          "round": 5,
-          "text": "get a grip",
-          "isSubject": true
-        },
-        {
-          "seq": 34,
-          "steamid64": "76561198128344883",
-          "name": "Demi-baguette",
-          "team": "T",
-          "round": 5,
-          "text": "go fast finish please",
-          "isSubject": false
-        },
-        {
-          "seq": 35,
-          "steamid64": "76561198171178965",
-          "name": "rap4",
-          "team": "CT",
-          "round": 5,
-          "text": "XD",
-          "isSubject": true
-        },
-        {
-          "seq": 36,
-          "steamid64": "76561198808398995",
-          "name": "xQc from Temu",
-          "team": null,
-          "round": 5,
-          "text": "xddd",
-          "isSubject": false
-        },
-        {
-          "seq": 37,
-          "steamid64": "76561198171178965",
-          "name": "rap4",
-          "team": "CT",
-          "round": 5,
-          "text": "jobless no future behaviour",
-          "isSubject": true
-        },
-        {
-          "seq": 38,
-          "steamid64": "76561199540233159",
-          "name": "Erzhan",
-          "team": "T",
-          "round": 5,
-          "text": "+",
-          "isSubject": false
-        },
-        {
-          "seq": 39,
-          "steamid64": "76561198171178965",
-          "name": "rap4",
-          "team": "CT",
-          "round": 5,
-          "text": "but cheating in cs",
-          "isSubject": true
-        },
-        {
-          "seq": 40,
-          "steamid64": "76561198171178965",
-          "name": "rap4",
-          "team": "CT",
-          "round": 6,
-          "text": "get cancer blue",
-          "isSubject": true
-        },
-        {
-          "seq": 41,
-          "steamid64": "76561198808398995",
-          "name": "xQc from Temu",
-          "team": null,
-          "round": 6,
-          "text": "deadass fr",
-          "isSubject": false
-        },
-        {
-          "seq": 42,
-          "steamid64": "76561198171178965",
-          "name": "rap4",
-          "team": "CT",
-          "round": 6,
-          "text": "no girl that will ever love you",
-          "isSubject": true
-        },
-        {
-          "seq": 43,
-          "steamid64": "76561199755412119",
-          "name": "76561199755412119",
-          "team": "T",
-          "round": 6,
-          "text": "1 done",
-          "isSubject": false
-        },
-        {
-          "seq": 44,
-          "steamid64": "76561198171178965",
-          "name": "rap4",
-          "team": "CT",
-          "round": 6,
-          "text": "hope your brain gets done with oxygen and you become a vegetable",
-          "isSubject": true
-        },
-        {
-          "seq": 45,
-          "steamid64": "76561198171178965",
-          "name": "rap4",
-          "team": "CT",
-          "round": 7,
-          "text": "which wouldnt bve that different from now tbh",
-          "isSubject": true
-        },
-        {
-          "seq": 46,
-          "steamid64": "76561198171178965",
-          "name": "rap4",
-          "team": "CT",
-          "round": 7,
-          "text": "you probably need to translate that you moronish uneducated fuck",
-          "isSubject": true
-        },
-        {
-          "seq": 47,
-          "steamid64": "76561198171178965",
-          "name": "rap4",
-          "team": "CT",
-          "round": 7,
-          "text": "ayyyyy",
-          "isSubject": true
-        },
-        {
-          "seq": 48,
-          "steamid64": "76561198212353419",
-          "name": "CARTOF",
-          "team": "CT",
-          "round": 7,
-          "text": "mcdonalds not hiring?",
-          "isSubject": false
-        },
-        {
-          "seq": 49,
-          "steamid64": "76561198171178965",
-          "name": "rap4",
-          "team": "CT",
-          "round": 7,
-          "text": "just better",
-          "isSubject": true
-        },
-        {
-          "seq": 50,
-          "steamid64": "76561198283411763",
-          "name": "KAKAWH!!!",
-          "team": "CT",
-          "round": 7,
-          "text": "i will find ur address and gonna visit ur little sister at 3am, i will sneak into her bed and brutally hug her",
-          "isSubject": false
-        },
-        {
-          "seq": 51,
-          "steamid64": "76561198171178965",
-          "name": "rap4",
-          "team": "CT",
-          "round": 8,
-          "text": "100% russian and should go to war",
-          "isSubject": true
-        },
-        {
-          "seq": 52,
-          "steamid64": "76561198171178965",
-          "name": "rap4",
-          "team": "CT",
-          "round": 8,
-          "text": "who is he prem with this fuck",
-          "isSubject": true
-        },
-        {
-          "seq": 53,
-          "steamid64": "76561198212353419",
-          "name": "CARTOF",
-          "team": "CT",
-          "round": 9,
-          "text": "Erzhan you paying for boost?",
-          "isSubject": false
-        },
-        {
-          "seq": 54,
-          "steamid64": "76561198283411763",
-          "name": "KAKAWH!!!",
-          "team": "CT",
-          "round": 10,
-          "text": "hey blue",
-          "isSubject": false
-        },
-        {
-          "seq": 55,
-          "steamid64": "76561198171178965",
-          "name": "rap4",
-          "team": "CT",
-          "round": 10,
-          "text": "top 3 russian cunts",
-          "isSubject": true
-        },
-        {
-          "seq": 56,
-          "steamid64": "76561198283411763",
-          "name": "KAKAWH!!!",
-          "team": "CT",
-          "round": 10,
-          "text": "what gaming chair are u using?",
-          "isSubject": false
-        },
-        {
-          "seq": 57,
-          "steamid64": "76561198171178965",
-          "name": "rap4",
-          "team": "CT",
-          "round": 10,
-          "text": "this guy with his 400kg ass takes all 3 spots",
-          "isSubject": true
-        },
-        {
-          "seq": 58,
-          "steamid64": "76561198171178965",
-          "name": "rap4",
-          "team": "CT",
-          "round": 10,
-          "text": "0 bench ability",
-          "isSubject": true
-        },
-        {
-          "seq": 59,
-          "steamid64": "76561198212353419",
-          "name": "CARTOF",
-          "team": "CT",
-          "round": 10,
-          "text": "ERZHAN ANSWER!!! how much are you paying",
-          "isSubject": false
-        },
-        {
-          "seq": 60,
-          "steamid64": "76561198171178965",
-          "name": "rap4",
-          "team": "CT",
-          "round": 11,
-          "text": "IF YOU PAY FOR THIS XDDDDDDDDDDDDDD",
-          "isSubject": true
-        },
-        {
-          "seq": 61,
-          "steamid64": "76561198171178965",
-          "name": "rap4",
-          "team": "CT",
-          "round": 11,
-          "text": "you must be the biggest retard on the planet",
-          "isSubject": true
-        },
-        {
-          "seq": 62,
-          "steamid64": "76561198171178965",
-          "name": "rap4",
-          "team": "CT",
-          "round": 11,
-          "text": "truly",
-          "isSubject": true
-        },
-        {
-          "seq": 63,
-          "steamid64": "76561198171178965",
-          "name": "rap4",
-          "team": "CT",
-          "round": 11,
-          "text": "and shouild be euthanised",
-          "isSubject": true
-        },
-        {
-          "seq": 64,
-          "steamid64": "76561198171178965",
-          "name": "rap4",
-          "team": "CT",
-          "round": 11,
-          "text": "iLikka too btw",
-          "isSubject": true
-        },
-        {
-          "seq": 65,
-          "steamid64": "76561198212353419",
-          "name": "CARTOF",
-          "team": "CT",
-          "round": 11,
-          "text": "erzhan how many rubels?",
-          "isSubject": false
-        },
-        {
-          "seq": 66,
-          "steamid64": "76561198171178965",
-          "name": "rap4",
-          "team": "CT",
-          "round": 11,
-          "text": "how many potatos",
-          "isSubject": true
-        },
-        {
-          "seq": 67,
-          "steamid64": "76561198171178965",
-          "name": "rap4",
-          "team": "CT",
-          "round": 11,
-          "text": "potatoes",
-          "isSubject": true
-        },
-        {
-          "seq": 68,
-          "steamid64": "76561198171178965",
-          "name": "rap4",
-          "team": "CT",
-          "round": 11,
-          "text": ":PPP",
-          "isSubject": true
-        },
-        {
-          "seq": 69,
-          "steamid64": "76561198171178965",
-          "name": "rap4",
-          "team": "CT",
-          "round": 11,
-          "text": "he prob plays on thinkpad",
-          "isSubject": true
-        },
-        {
-          "seq": 70,
-          "steamid64": "76561198171178965",
-          "name": "rap4",
-          "team": "CT",
-          "round": 11,
-          "text": "sad ass russian life",
-          "isSubject": true
-        },
-        {
-          "seq": 71,
-          "steamid64": "76561198212353419",
-          "name": "CARTOF",
-          "team": "CT",
-          "round": 11,
-          "text": "ey sad boy",
-          "isSubject": false
-        },
-        {
-          "seq": 72,
-          "steamid64": "76561198171178965",
-          "name": "rap4",
-          "team": "CT",
-          "round": 11,
-          "text": "they should just get him and take hims traight to the front",
-          "isSubject": true
-        },
-        {
-          "seq": 73,
-          "steamid64": "76561198171178965",
-          "name": "rap4",
-          "team": "CT",
-          "round": 11,
-          "text": "ayyy",
-          "isSubject": true
-        },
-        {
-          "seq": 74,
-          "steamid64": "76561198125454340",
-          "name": "MindHigh",
-          "team": "CT",
-          "round": 11,
-          "text": "ах вы уебки ещё и русские",
-          "isSubject": false
-        },
-        {
-          "seq": 75,
-          "steamid64": "76561198125454340",
-          "name": "MindHigh",
-          "team": "CT",
-          "round": 11,
-          "text": "в школу пиздуйте",
-          "isSubject": false
-        },
-        {
-          "seq": 76,
-          "steamid64": "76561198171178965",
-          "name": "rap4",
-          "team": "CT",
-          "round": 11,
-          "text": "i dont speak terrorist sorry",
-          "isSubject": true
-        },
-        {
-          "seq": 77,
-          "steamid64": "76561198171178965",
-          "name": "rap4",
-          "team": "CT",
-          "round": 12,
-          "text": "you know only 1 language probably",
-          "isSubject": true
-        },
-        {
-          "seq": 78,
-          "steamid64": "76561198212353419",
-          "name": "CARTOF",
-          "team": "CT",
-          "round": 12,
-          "text": "mom credit card?",
-          "isSubject": false
-        },
-        {
-          "seq": 79,
-          "steamid64": "76561198128344883",
-          "name": "Demi-baguette",
-          "team": "T",
-          "round": 12,
-          "text": "b",
-          "isSubject": false
-        },
-        {
-          "seq": 80,
-          "steamid64": "76561199204135263",
-          "name": "iLikka",
-          "team": "T",
-          "round": 12,
-          "text": "all repport blue",
-          "isSubject": false
-        },
-        {
-          "seq": 81,
-          "steamid64": "76561198212353419",
-          "name": "CARTOF",
-          "team": "CT",
-          "round": 12,
-          "text": "ruski dibil??",
-          "isSubject": false
-        },
-        {
-          "seq": 82,
-          "steamid64": "76561199755412119",
-          "name": "76561199755412119",
-          "team": "T",
-          "round": 12,
-          "text": "REPORT ME",
-          "isSubject": false
-        },
-        {
-          "seq": 83,
-          "steamid64": "76561198171178965",
-          "name": "rap4",
-          "team": "CT",
-          "round": 12,
-          "text": "why do you even play the game",
-          "isSubject": true
-        },
-        {
-          "seq": 84,
-          "steamid64": "76561198171178965",
-          "name": "rap4",
-          "team": "CT",
-          "round": 13,
-          "text": "crazy how you play with cheater blue and orange",
-          "isSubject": true
-        },
-        {
-          "seq": 85,
-          "steamid64": "76561198212353419",
-          "name": "CARTOF",
-          "team": "CT",
-          "round": 13,
-          "text": "saf",
-          "isSubject": false
-        }
-      ]
-    },
-    {
-      "shareCode": "CSGO-o4hcb-6Syuu-5eGKr-t4h7w-kfFnK",
-      "map": null,
-      "playedAt": "2026-09-07T11:31:01.000Z",
-      "team": "T",
-      "ownScore": null,
-      "enemyScore": null,
-      "result": null,
-      "messages": [
-        {
-          "seq": 0,
-          "steamid64": "76561198171178965",
-          "name": "rap4",
-          "team": "T",
-          "round": 2,
-          "text": "LOL",
-          "isSubject": true
-        },
-        {
-          "seq": 1,
-          "steamid64": "76561198171178965",
-          "name": "rap4",
-          "team": "T",
-          "round": 2,
-          "text": "♿",
-          "isSubject": true
-        },
-        {
-          "seq": 2,
-          "steamid64": "76561198283411763",
-          "name": "KAKAWH!!!",
-          "team": "T",
-          "round": 6,
-          "text": "XDDDDDDDDDD",
-          "isSubject": false
-        },
-        {
-          "seq": 3,
-          "steamid64": "76561198171178965",
-          "name": "rap4",
-          "team": "T",
-          "round": 10,
-          "text": "how lmao",
-          "isSubject": true
-        },
-        {
-          "seq": 4,
-          "steamid64": "76561199243469539",
-          "name": "AutisteA",
-          "team": "T",
-          "round": 21,
-          "text": "gg",
-          "isSubject": false
-        }
-      ]
-    },
-    {
-      "shareCode": "CSGO-tib24-Z4YOH-NxiAG-9kZPM-CnF8D",
-      "map": "de_mirage",
-      "playedAt": "2026-09-06T21:36:12.000Z",
-      "team": "T",
-      "ownScore": 16,
-      "enemyScore": 12,
-      "result": "win",
-      "messages": [
-        {
-          "seq": 0,
-          "steamid64": "76561199110149653",
-          "name": "Czarny77_",
-          "team": "CT",
-          "round": 0,
-          "text": "get leetify",
-          "isSubject": false
-        },
-        {
-          "seq": 1,
-          "steamid64": "76561198171178965",
-          "name": "rap4",
-          "team": "T",
-          "round": 26,
-          "text": "gh",
-          "isSubject": true
-        },
-        {
-          "seq": 2,
-          "steamid64": "76561199110149653",
-          "name": "Czarny77_",
-          "team": "CT",
-          "round": 27,
-          "text": "gg so ez",
-          "isSubject": false
-        },
-        {
-          "seq": 3,
-          "steamid64": "76561198171178965",
-          "name": "rap4",
-          "team": "T",
-          "round": 27,
-          "text": "gg",
-          "isSubject": true
-        },
-        {
-          "seq": 4,
-          "steamid64": "76561197995362723",
-          "name": "iBol1ty",
-          "team": "T",
-          "round": 27,
-          "text": "gg",
-          "isSubject": false
-        },
-        {
-          "seq": 5,
-          "steamid64": "76561199110149653",
-          "name": "Czarny77_",
-          "team": "CT",
-          "round": 27,
-          "text": "bicthjes",
-          "isSubject": false
-        },
-        {
-          "seq": 6,
-          "steamid64": "76561198171178965",
-          "name": "rap4",
-          "team": "T",
-          "round": 27,
-          "text": "essa czarny",
-          "isSubject": true
-        },
-        {
-          "seq": 7,
-          "steamid64": "76561198171178965",
-          "name": "rap4",
-          "team": "T",
-          "round": 27,
-          "text": "l2p wariacie",
-          "isSubject": true
-        }
-      ]
-    }
-  ],
-  "totalMessages": 127,
-  "pending": 0,
-  "gathering": false
+    ],
+    "totalMessages": 127,
+    "pending": 0,
+    "gathering": true
 }

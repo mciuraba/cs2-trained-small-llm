@@ -86,7 +86,7 @@ def get_all_steamids(connection: Connection) -> list:
     cur = connection.cursor()
 
     cur.execute(
-        "SELECT DISTINCT steamid64 FROM messages"
+        "SELECT steamid64 FROM players"
     )
 
     return [row[0] for row in cur.fetchall()]
@@ -151,13 +151,14 @@ def ingest_messages(messages: list[dict], connection: Connection):
 
 def get_next_unprocessed_player(connection: Connection) -> str | None:
     '''
-    Selects next unprocessed player from the database
+    Selects next unprocessed player from the database.
+    Returns next unprocessed player's steamid64
     '''
 
     cur = connection.cursor()
 
     cur.execute(
-        "SELECT steamid64 FROM players WHERE has_been_processed = 0 LIMIT 1"
+        "SELECT steamid64 FROM players WHERE has_been_processed = 0 ORDER BY steamid64 LIMIT 1"
     )
     res = cur.fetchone()
 
@@ -172,3 +173,17 @@ def mark_player_as_processed(steamid64: str, connection: Connection):
         (steamid64,)
     )
 
+def get_num_of_players(connection: Connection) -> int:
+    cur = connection.cursor()
+    cur.execute("SELECT COUNT(*) FROM players")
+    return cur.fetchone()[0]
+
+
+def get_num_of_processed_players(connection: Connection) -> int:
+    cur = connection.cursor()
+    cur.execute("""
+        SELECT COUNT(*)
+        FROM players
+        WHERE has_been_processed = 1
+    """)
+    return cur.fetchone()[0]

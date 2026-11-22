@@ -8,6 +8,7 @@ dependencies = [
     "awpy>=3.3.0",
     "matplotlib>=3.11.2",
     "pandas>=3.1.1",
+    "playwright>=1.65.2",
     "requests>=2.34.2",
     "wordcloud>=1.9.6",
 ]
