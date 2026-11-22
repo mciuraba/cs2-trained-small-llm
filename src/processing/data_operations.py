@@ -45,3 +45,4 @@ def amount_of_messages_in_file(raw_data_path: str) -> int:
         for message in match["messages"]:
             n_of_messages+=1
     return n_of_messages
+

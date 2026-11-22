@@ -7,7 +7,7 @@ def create_database():
     cursor = connection.cursor()
 
     cursor.execute(
-        "CREATE TABLE IF NOT EXISTS players(steamid64 TEXT PRIMARY KEY)"
+        "CREATE TABLE IF NOT EXISTS players(steamid64 TEXT PRIMARY KEY, has_been_processed INTEGER NOT NULL DEFAULT 0)"
     )
 
     cursor.execute("""
@@ -39,6 +39,7 @@ def add_player(steamid64: str, connection: Connection):
         "INSERT OR IGNORE INTO players (steamid64) VALUES (?)",
         (steamid64,)
     )
+
     #connection.commit()
 
 def add_message(message: dict, connection: Connection):
@@ -91,16 +92,83 @@ def get_all_steamids(connection: Connection) -> list:
     return [row[0] for row in cur.fetchall()]
 
 def get_num_of_messages(connection: Connection) -> int:
-    n_of_mess = 0
-
     cur = connection.cursor()
 
     cur.execute(
         "SELECT COUNT(*) FROM messages"
     )
-    n_of_mess = cur.fetchall()
 
-    return n_of_mess[0][0]
+    return cur.fetchone()[0]
+
+def get_messages_in_order(connection: Connection):
+    """
+    Returns messages from a match in order, ordered by sequence that they appeared in.
+    """
+
+    # for each share_code (match), in order to sequence
+
+    # get all share_code -> so each match
+
+    cur = connection.cursor()
+
+    cur.execute(
+        "SELECT DISTINCT share_code FROM messages GROUP BY share_code ORDER BY MIN(played_at) ASC"
+    )
+    share_codes = [row[0] for row in cur.fetchall()]
+    matches = []
+
+    for code in share_codes:
+        cur.execute(
+            "SELECT seq, steamid64, text, team, round FROM messages WHERE share_code = ? ORDER BY seq ASC",
+            (code,)
+        )
+        messages = cur.fetchall()
+
+        matches.append({
+            "share_code": code,
+            "messages": [
+                {
+                    "seq": seq,
+                    "steamid64":steamid64,
+                    "text":text,
+                    "team": team,
+                    "round":round
+                }
+                for seq, steamid64, text, team, round in messages
+            ]
+        })
+
+    return matches
+
+def ingest_messages(messages: list[dict], connection: Connection):
+    '''
+    Puts all of messages in database from a list of dictionaries, accordingly (players and messages table).
+    '''
+    for message in messages:
+        add_message(message, connection)
+        add_player(message["steamid64"], connection)
 
 
-    
+def get_next_unprocessed_player(connection: Connection) -> str | None:
+    '''
+    Selects next unprocessed player from the database
+    '''
+
+    cur = connection.cursor()
+
+    cur.execute(
+        "SELECT steamid64 FROM players WHERE has_been_processed = 0 LIMIT 1"
+    )
+    res = cur.fetchone()
+
+    return res[0] if res else None
+
+
+
+def mark_player_as_processed(steamid64: str, connection: Connection):
+    cur = connection.cursor()
+    cur.execute(
+        "UPDATE players SET has_been_processed = 1 WHERE steamid64 = ?",
+        (steamid64,)
+    )
+
