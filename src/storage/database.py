@@ -146,6 +146,7 @@ def ingest_messages(messages: list[dict], connection: Connection):
     '''
     for message in messages:
         add_message(message, connection)
+        # conditional for add_player (only if current database has less than 500 )
         add_player(message["steamid64"], connection)
 
 
@@ -187,3 +188,21 @@ def get_num_of_processed_players(connection: Connection) -> int:
         WHERE has_been_processed = 1
     """)
     return cur.fetchone()[0]
+
+def remove_spam_messages(connection: Connection, threshold: int = 7):
+    cur = connection.cursor()
+
+    cur.execute("""
+        DELETE from messages
+        WHERE (share_code, steamid64, LOWER(TRIM(text))) IN (
+            SELECT share_code, steamid64, LOWER(TRIM(text))
+            FROM messages
+            GROUP BY share_code, steamid64, LOWER(TRIM(text))
+            HAVING COUNT(*) > ?
+        )
+
+    """, (threshold, ))
+
+    deleted = cur.rowcount
+
+    return deleted

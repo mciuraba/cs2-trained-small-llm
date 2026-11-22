@@ -1,5 +1,4 @@
 # How can the data flow
-
 1. Firstly, we need playwright or some other sort of framework/tool to download the messages from CSGO-ID from sites, because of the cloudflare challenges.
 2. Then, for each DISTINCT (need to keep a set of CSGO-IDS) steam id player, we look for all of the messages that tere are and do those things:
  - extract all of the messages (raw)
@@ -13,3 +12,6 @@
 open -na "Google Chrome" --args \
   --remote-debugging-port=9222 \
   --user-data-dir="$HOME/cs2tracker-chrome-profile"
+
+# Running the main crawler for data ingestation:
+uv run python -m src.crawler.crawler

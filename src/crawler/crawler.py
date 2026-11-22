@@ -1,4 +1,3 @@
-
 import sqlite3
 
 from playwright.async_api import async_playwright
@@ -11,34 +10,41 @@ from src.storage.database import (
     mark_player_as_processed,
     get_num_of_players,
     get_num_of_processed_players,
-    get_num_of_messages
+    get_num_of_messages,
+    remove_spam_messages
 )
+
+TARGET_MESSAGES = 300_000
+MAX_PLAYERS = 3_000
 
 async def process_next_player(connection: sqlite3.Connection, page):
     steamid64 = get_next_unprocessed_player(connection)
 
     if steamid64 is None:
-        print("No unprocessed players.")
-        return
+        return False
 
-    print(f"Processing player: {steamid64}")
+    print(f"\nProcessing player: {steamid64}")
 
     try:
         data = await fetch_player_matches(page, steamid64)
-
         messages = parse_api_messages(data)
 
         ingest_messages(messages, connection)
 
-        mark_player_as_processed(steamid64, connection)
+        # Usuwamy spam po pobraniu danych gracza
+        removed = remove_spam_messages(connection, threshold=7)
 
+        mark_player_as_processed(steamid64, connection)
         connection.commit()
 
-        print(f"Fetched {len(messages)} messages.")
-        print(f"Discovered {len(data['matches'])} matches.")
-        print("Total players:", get_num_of_players(connection))
-        print("Processed players:", get_num_of_processed_players(connection))
-        print("Total messages:", get_num_of_messages(connection))
+        print(f"Fetched: {len(messages)} messages")
+        print(f"Spam removed: {removed}")
+        print(f"Discovered matches: {len(data['matches'])}")
+        print(f"Total players: {get_num_of_players(connection)}")
+        print(f"Processed players: {get_num_of_processed_players(connection)}")
+        print(f"Total messages: {get_num_of_messages(connection)}")
+
+        return True
 
     except Exception:
         connection.rollback()
@@ -66,7 +72,17 @@ async def main():
 
             input("Ensure CS2Tracker is ready, then press Enter...")
 
-            await process_next_player(connection, page)
+            while (
+                get_num_of_messages(connection) < TARGET_MESSAGES
+                and get_num_of_processed_players(connection) < MAX_PLAYERS
+            ):
+                processed = await process_next_player(connection, page)
+
+                if not processed:
+                    print("No more unprocessed players.")
+                    break
+
+                await asyncio.sleep(1)
 
             await browser.close()
 
